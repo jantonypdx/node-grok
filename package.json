@@ -16,12 +16,12 @@
   "author": "Andrey Chausenko",
   "license": "ISC",
   "dependencies": {
-    "async": "3.1.0",
-    "collections": "5.1.9",
-    "oniguruma": "7.2.0"
+    "async": "^3.2.0",
+    "collections": "^5.1.11",
+    "oniguruma": "^7.2.1"
   },
   "devDependencies": {
-    "chai": "4.2.0",
-    "mocha": "6.2.0"
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
   }
 }
